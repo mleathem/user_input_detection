@@ -7,8 +7,8 @@ Classes are added to HTML and BODY depending on user interaction/navigation
 ## ! Important to pay apply progressive enhancement philosophy
 Only once we can be sure of a user's interaction method / browser properties etc.. 
 
+Use `/js/` scripts as required -  Typical aplication would then be applied in CSS.
 
-## Typical use would may be applied in CSS.
 
 ```
 html.js {
