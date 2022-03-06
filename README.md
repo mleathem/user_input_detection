@@ -19,6 +19,6 @@ body[data-ux-accessibility] {
 }
 
 html.js body:not([data-ux-accessibility]) {
-  /* user not used keyboard for NAV (so far!)
+  /* user not used keyboard for NAV (so far!) */
 }
 ``` 
