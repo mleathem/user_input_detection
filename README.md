@@ -4,7 +4,7 @@ Detect User's method of navigation / interaction - accessibility enhancement
 Collection of Javascript to enhanced user experience.
 Classes are added to HTML and BODY depending on user interaction/navigation
 
-## ! Important to pay apply progressive enhancement philosophy
+## 💥 Important to apply 'progressive enhancement' philosophy
 Only once we can be sure of a user's interaction method / browser properties etc.. 
 
 Use `/js/` scripts as required -  Typical aplication would then be applied in CSS.
